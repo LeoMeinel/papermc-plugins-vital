@@ -5,7 +5,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Quality][quality-shield]][quality-url]
 
 <!-- PROJECT LOGO -->
 <!--suppress ALL -->
@@ -126,5 +125,3 @@ Project Link - [vital](https://github.com/LeoMeinel/vital) - GitHub
 [issues-url]: https://github.com/LeoMeinel/vital/issues
 [license-shield]: https://img.shields.io/github/license/LeoMeinel/vital?style=for-the-badge
 [license-url]: https://github.com/LeoMeinel/vital/blob/main/LICENSE
-[quality-shield]: https://img.shields.io/codefactor/grade/github/LeoMeinel/vital?style=for-the-badge
-[quality-url]: https://www.codefactor.io/repository/github/LeoMeinel/vital
