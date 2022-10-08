@@ -1,0 +1,78 @@
+[submodule "vitalback"]
+	path = vitalback
+	url = git@github.com:LeoMeinel/vitalback.git
+[submodule "vitalbroadcast"]
+	path = vitalbroadcast
+	url = git@github.com:LeoMeinel/vitalbroadcast.git
+[submodule "vitalcondense"]
+	path = vitalcondense
+	url = git@github.com:LeoMeinel/vitalcondense.git
+[submodule "vitalcraft"]
+	path = vitalcraft
+	url = git@github.com:LeoMeinel/vitalcraft.git
+[submodule "vitalenchant"]
+	path = vitalenchant
+	url = git@github.com:LeoMeinel/vitalenchant.git
+[submodule "vitalfeed"]
+	path = vitalfeed
+	url = git@github.com:LeoMeinel/vitalfeed.git
+[submodule "vitalfix"]
+	path = vitalfix
+	url = git@github.com:LeoMeinel/vitalfix.git
+[submodule "vitalfly"]
+	path = vitalfly
+	url = git@github.com:LeoMeinel/vitalfly.git
+[submodule "vitalheal"]
+	path = vitalheal
+	url = git@github.com:LeoMeinel/vitalheal.git
+[submodule "vitalhome"]
+	path = vitalhome
+	url = git@github.com:LeoMeinel/vitalhome.git
+[submodule "vitalkeepexp"]
+	path = vitalkeepexp
+	url = git@github.com:LeoMeinel/vitalkeepexp.git
+[submodule "vitalkeepinv"]
+	path = vitalkeepinv
+	url = git@github.com:LeoMeinel/vitalkeepinv.git
+[submodule "vitalmail"]
+	path = vitalmail
+	url = git@github.com:LeoMeinel/vitalmail.git
+[submodule "vitalmotd"]
+	path = vitalmotd
+	url = git@github.com:LeoMeinel/vitalmotd.git
+[submodule "vitalplayertime"]
+	path = vitalplayertime
+	url = git@github.com:LeoMeinel/vitalplayertime.git
+[submodule "vitalplayerweather"]
+	path = vitalplayerweather
+	url = git@github.com:LeoMeinel/vitalplayerweather.git
+[submodule "vitalrules"]
+	path = vitalrules
+	url = git@github.com:LeoMeinel/vitalrules.git
+[submodule "vitalseen"]
+	path = vitalseen
+	url = git@github.com:LeoMeinel/vitalseen.git
+[submodule "vitalskull"]
+	path = vitalskull
+	url = git@github.com:LeoMeinel/vitalskull.git
+[submodule "vitalspawn"]
+	path = vitalspawn
+	url = git@github.com:LeoMeinel/vitalspawn.git
+[submodule "vitalsuicide"]
+	path = vitalsuicide
+	url = git@github.com:LeoMeinel/vitalsuicide.git
+[submodule "vitaltp"]
+	path = vitaltp
+	url = git@github.com:LeoMeinel/vitaltp.git
+[submodule "vitaltpa"]
+	path = vitaltpa
+	url = git@github.com:LeoMeinel/vitaltpa.git
+[submodule "vitaltrash"]
+	path = vitaltrash
+	url = git@github.com:LeoMeinel/vitaltrash.git
+[submodule "vitalwarp"]
+	path = vitalwarp
+	url = git@github.com:LeoMeinel/vitalwarp.git
+[submodule "vitalwelcome"]
+	path = vitalwelcome
+	url = git@github.com:LeoMeinel/vitalwelcome.git
